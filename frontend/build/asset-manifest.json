@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atchu33/Ecommerce-website-using-React-Js/static/css/main.7608802d.css",
+    "main.js": "/atchu33/Ecommerce-website-using-React-Js/static/js/main.79b804e3.js",
+    "index.html": "/atchu33/Ecommerce-website-using-React-Js/index.html",
+    "main.7608802d.css.map": "/atchu33/Ecommerce-website-using-React-Js/static/css/main.7608802d.css.map",
+    "main.79b804e3.js.map": "/atchu33/Ecommerce-website-using-React-Js/static/js/main.79b804e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7608802d.css",
+    "static/js/main.79b804e3.js"
+  ]
+}
